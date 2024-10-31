@@ -1,0 +1,4 @@
+name: FarmweltSystem
+version: '1.0-SNAPSHOT'
+main: de.dieconfig.farmweltSystem.FarmweltSystem
+api-version: '1.20'
